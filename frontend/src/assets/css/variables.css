@@ -1,0 +1,10 @@
+:root {
+  --font-family-primary: 'Poppins', sans-serif;
+
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+
+  --color-white: #fff;
+
+  --color-blue-400: #109CF1;
+}
