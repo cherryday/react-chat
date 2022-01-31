@@ -1,0 +1,29 @@
+.wrapper {
+  width: 16px;
+  height: 16px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.new {
+  background-color: var(--color-blue-400);
+  font-size: 10px;
+  line-height: 13px;
+  color: #fff;
+}
+
+.sent {
+  color: #2ED47A;
+  border: 1px solid #2ED47A;
+}
+
+.seen {
+  color: #C2CFE0;
+  border: 1px solid #C2CFE0;
+}
+
+.error {
+  border: 1px solid #FF3C5F;
+}
